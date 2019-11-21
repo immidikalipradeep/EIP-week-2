@@ -89,4 +89,4 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 
 # strategy 
 
-Reduced the number of parameters in CNN and used dropots to give the required accuracy.
+Reduced the number of parameters in CNN and used droupouts to give the required accuracy.
